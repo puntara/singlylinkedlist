@@ -1,0 +1,4 @@
+Insering new node in the front. 
+The enserting node points to the head of the node and the inserted node is the head of the list.
+newNode -->next =head.
+head =newNode this means the newNode becomes the head. 
